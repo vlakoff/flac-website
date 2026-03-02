@@ -783,7 +783,7 @@ number of independent functions. Even then, a high number like *N*\>4
 or 5, will often become less efficient than other options considered 
 expensive, like the slower -p, though results vary with signal.
 
-Up to 32 functions can be given as comma-separated list and/or individual 
+Up to 32 functions can be given as semicolon-separated list and/or individual 
 **-A** options. Any mis-specified function is silently ignored. Quoting 
 a function which takes options (and has parentheses) may be necessary, 
 depending on shell. Currently the following functions are implemented: 
